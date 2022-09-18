@@ -1,4 +1,4 @@
-# Softwarelab3_ass3
+# Softwarelab3_Ass3
 # JAVA TESTING
 ## Installation
 
